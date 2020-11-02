@@ -142,7 +142,8 @@ main h1 {
 
 .flex-grid {
   display: flex;
-  height: 70%;
+  flex-wrap: wrap;
+  justify-content: space-around;
 }
 
 .userDetail{
